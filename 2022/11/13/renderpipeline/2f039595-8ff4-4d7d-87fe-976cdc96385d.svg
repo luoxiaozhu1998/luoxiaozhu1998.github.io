@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5.722222in" height="2.666667in" class="slides-canvas" viewBox="0 0 412 192">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -66, -144)">
+      <path fill="#ECD9FF" d="M66 154.63C66 149.18 70.42 144.76 75.86 144.76L202.89 144.76C208.33 144.76 212.75 149.18 212.75 154.63L212.75 233.54 212.75 233.54C212.75 238.99 208.33 243.41 202.89 243.41L75.86 243.41 75.86 243.41C70.42 243.41 66 238.99 66 233.54z" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M66 154.63C66 149.18 70.42 144.76 75.86 144.76L202.89 144.76C208.33 144.76 212.75 149.18 212.75 154.63L212.75 233.54 212.75 233.54C212.75 238.99 208.33 243.41 202.89 243.41L75.86 243.41 75.86 243.41C70.42 243.41 66 238.99 66 233.54z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -66, -144)">
+      <path fill="#B5CBE7" d="M235 163.15L263.89 163.15 263.89 155.84 282.16 174.11 263.89 192.38 263.89 185.07 235 185.07z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 7.839981, 8.601135)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="12.99375"><tspan>三角形设置</tspan></text><text font-family="SimSun" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="33.99375"><tspan>Triangle Setup</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, -66, -144)">
+      <path fill="#ECD9FF" d="M301.74 154.63C301.74 149.18 306.15 144.76 311.6 144.76L438.62 144.76C444.07 144.76 448.49 149.18 448.49 154.63L448.49 233.54C448.49 238.99 444.07 243.41 438.62 243.41L311.6 243.41 311.6 243.41C306.15 243.41 301.74 238.99 301.74 233.54z" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M301.74 154.63C301.74 149.18 306.15 144.76 311.6 144.76L438.62 144.76C444.07 144.76 448.49 149.18 448.49 154.63L448.49 233.54C448.49 238.99 444.07 243.41 438.62 243.41L311.6 243.41 311.6 243.41C306.15 243.41 301.74 238.99 301.74 233.54z" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 243.577728, 8.601135)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="12.99375"><tspan>三角形遍历</tspan></text><text font-family="SimSun" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="33.99375"><tspan>Triangle Traversal</tspan></text></g>
+  </g>
+</svg>
